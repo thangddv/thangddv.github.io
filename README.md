@@ -2,5 +2,5 @@
 
 ### Run local with
 ```
-go server
+hugo server
 ```
